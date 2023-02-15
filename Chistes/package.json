@@ -1,0 +1,26 @@
+{
+  "name": "api_de_bromas",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablo-insfran/api_de_bromas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pablo-insfran/api_de_bromas/issues"
+  },
+  "homepage": "https://github.com/pablo-insfran/api_de_bromas#readme",
+  "description": ""
+}
